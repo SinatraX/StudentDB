@@ -1,0 +1,7 @@
+C:\Users\JB\Documents\StudentDB\bin\Release\StudentDB.exe.config
+C:\Users\JB\Documents\StudentDB\bin\Release\StudentDB.exe
+C:\Users\JB\Documents\StudentDB\bin\Release\StudentDB.pdb
+C:\Users\JB\Documents\StudentDB\obj\Release\StudentDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\JB\Documents\StudentDB\obj\Release\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\JB\Documents\StudentDB\obj\Release\StudentDB.exe
+C:\Users\JB\Documents\StudentDB\obj\Release\StudentDB.pdb

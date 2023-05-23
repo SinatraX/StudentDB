@@ -1,0 +1,8 @@
+C:\Users\JB\Documents\StudentDB\obj\Debug\StudentDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\JB\Documents\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\JB\Documents\StudentDB\bin\Debug\StudentDB.exe.config
+C:\Users\JB\Documents\StudentDB\bin\Debug\StudentDB.exe
+C:\Users\JB\Documents\StudentDB\bin\Debug\StudentDB.pdb
+C:\Users\JB\Documents\StudentDB\obj\Debug\StudentDB.exe
+C:\Users\JB\Documents\StudentDB\obj\Debug\StudentDB.pdb
+C:\Users\JB\Documents\StudentDB\obj\Debug\StudentDB.csproj.AssemblyReference.cache

@@ -1,0 +1,32 @@
+StudentDB.GradStudent
+Donald
+Trump
+3.5
+donaldtrump@uw.edu
+3/6/2022 6:56:24 PM
+99999.99
+Dr.Benjimin Franklin
+StudentDB.GradStudent
+Bob
+Dylan
+3.9
+bobdylan@uw.edu
+3/6/2022 6:57:08 PM
+55555.55
+Dr.Jimi Hendrix
+StudentDB.Undergrad
+Jay
+Bai
+3.1
+jbai1996@uw.edu
+3/6/2022 6:57:38 PM
+Junior
+Information Technology
+StudentDB.Undergrad
+Bruce
+Lee
+4
+brucelee@uw.edu
+3/6/2022 6:58:21 PM
+Freshman
+Phycology
